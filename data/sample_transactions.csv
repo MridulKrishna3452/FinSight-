@@ -1,0 +1,89 @@
+date,description,amount,type,merchant,payment_method
+2026-07-22,OLA PURCHASE,-282,expense,Ola,UPI
+2026-07-22,STARBUCKS PURCHASE,-670,expense,Starbucks,Cash
+2026-07-24,MAKEMYTRIP PURCHASE,-3900,expense,MakeMyTrip,Cash
+2026-07-24,AMAZON PURCHASE,-607,expense,Amazon,UPI
+2026-07-25,DMART PURCHASE,-686,expense,DMart,Credit Card
+2026-07-25,STARBUCKS PURCHASE,-532,expense,Starbucks,Net Banking
+2026-07-25,ZOMATO PURCHASE,-729,expense,Zomato,UPI
+2026-07-26,LIC PREMIUM PURCHASE,-6639,expense,LIC Premium,Cash
+2026-07-28,ZOMATO PURCHASE,-376,expense,Zomato,UPI
+2026-07-28,ELECTRICITY BOARD PURCHASE,-4316,expense,Electricity Board,Credit Card
+2026-07-28,NETFLIX PURCHASE,-413,expense,Netflix,Credit Card
+2026-07-30,ELECTRICITY BOARD PURCHASE,-4142,expense,Electricity Board,Credit Card
+2026-07-30,UBER PURCHASE,-272,expense,Uber,Debit Card
+2026-08-01,SALARY CREDIT,64114,income,Acme Corp,Bank Transfer
+2026-08-02,AIRTEL POSTPAID PURCHASE,-943,expense,Airtel Postpaid,Net Banking
+2026-08-03,MONTHLY RENT,-18367,expense,Landlord - Rent,Net Banking
+2026-08-03,APOLLO PHARMACY PURCHASE,-2006,expense,Apollo Pharmacy,Debit Card
+2026-08-03,NETFLIX PURCHASE,-326,expense,Netflix,Credit Card
+2026-08-04,STARBUCKS PURCHASE,-544,expense,Starbucks,Debit Card
+2026-08-05,SPOTIFY PURCHASE,-176,expense,Spotify,Debit Card
+2026-08-05,IRCTC PURCHASE,-599,expense,IRCTC,UPI
+2026-08-05,JIO FIBER PURCHASE,-1127,expense,Jio Fiber,Credit Card
+2026-08-06,OLA PURCHASE,-330,expense,Ola,Net Banking
+2026-08-06,ZOMATO PURCHASE,-834,expense,Zomato,UPI
+2026-08-07,SPOTIFY PURCHASE,-163,expense,Spotify,Cash
+2026-08-07,AIRTEL POSTPAID PURCHASE,-992,expense,Airtel Postpaid,Net Banking
+2026-08-07,FLIPKART LARGE PURCHASE,-94920,expense,Flipkart,Credit Card
+2026-08-10,AIRTEL POSTPAID PURCHASE,-465,expense,Airtel Postpaid,UPI
+2026-08-10,NETFLIX PURCHASE,-530,expense,Netflix,Cash
+2026-08-11,NETFLIX PURCHASE,-565,expense,Netflix,Net Banking
+2026-08-11,ZERODHA PURCHASE,-12370,expense,Zerodha,UPI
+2026-08-11,APOLLO PHARMACY PURCHASE,-1605,expense,Apollo Pharmacy,Credit Card
+2026-08-13,ZOMATO PURCHASE,-373,expense,Zomato,Debit Card
+2026-08-13,OLA PURCHASE,-458,expense,Ola,Credit Card
+2026-08-13,BIGBASKET PURCHASE,-2101,expense,BigBasket,Net Banking
+2026-08-15,APOLLO PHARMACY PURCHASE,-1795,expense,Apollo Pharmacy,Cash
+2026-08-16,OLA PURCHASE,-499,expense,Ola,Net Banking
+2026-08-16,ELECTRICITY BOARD PURCHASE,-1940,expense,Electricity Board,Net Banking
+2026-08-17,ZERODHA PURCHASE,-13466,expense,Zerodha,Credit Card
+2026-08-17,OLA PURCHASE,-122,expense,Ola,Credit Card
+2026-08-18,FLIPKART PURCHASE,-5694,expense,Flipkart,Credit Card
+2026-08-20,MAKEMYTRIP PURCHASE,-7975,expense,MakeMyTrip,Debit Card
+2026-08-20,NETFLIX PURCHASE,-201,expense,Netflix,Credit Card
+2026-08-20,DMART PURCHASE,-2589,expense,DMart,Debit Card
+2026-08-21,OLA PURCHASE,-433,expense,Ola,Cash
+2026-08-21,IRCTC PURCHASE,-2982,expense,IRCTC,UPI
+2026-08-22,ZERODHA PURCHASE,-19326,expense,Zerodha,Net Banking
+2026-08-22,BIGBASKET PURCHASE,-2134,expense,BigBasket,Net Banking
+2026-08-22,UBER PURCHASE,-573,expense,Uber,Net Banking
+2026-08-24,STARBUCKS PURCHASE,-356,expense,Starbucks,Net Banking
+2026-08-25,UBER PURCHASE,-428,expense,Uber,Cash
+2026-08-29,ELECTRICITY BOARD PURCHASE,-1215,expense,Electricity Board,Debit Card
+2026-09-01,SALARY CREDIT,73628,income,Acme Corp,Bank Transfer
+2026-09-01,OLA PURCHASE,-404,expense,Ola,Debit Card
+2026-09-01,BOOKMYSHOW PURCHASE,-816,expense,BookMyShow,Debit Card
+2026-09-01,AIRTEL POSTPAID PURCHASE,-524,expense,Airtel Postpaid,UPI
+2026-09-02,APOLLO PHARMACY PURCHASE,-2117,expense,Apollo Pharmacy,Net Banking
+2026-09-02,NETFLIX PURCHASE,-242,expense,Netflix,Credit Card
+2026-09-02,UBER PURCHASE,-430,expense,Uber,Debit Card
+2026-09-03,MONTHLY RENT,-15920,expense,Landlord - Rent,Net Banking
+2026-09-03,JIO FIBER PURCHASE,-722,expense,Jio Fiber,Credit Card
+2026-09-04,OLA PURCHASE,-433,expense,Ola,Cash
+2026-09-04,SWIGGY PURCHASE,-690,expense,Swiggy,Debit Card
+2026-09-06,JIO FIBER PURCHASE,-1074,expense,Jio Fiber,Credit Card
+2026-09-06,BOOKMYSHOW PURCHASE,-990,expense,BookMyShow,Credit Card
+2026-09-07,LIC PREMIUM PURCHASE,-3327,expense,LIC Premium,Cash
+2026-09-07,AMAZON PURCHASE,-2261,expense,Amazon,Net Banking
+2026-09-08,AMAZON PURCHASE,-4540,expense,Amazon,Net Banking
+2026-09-09,SWIGGY PURCHASE,-178,expense,Swiggy,Debit Card
+2026-09-09,AIRTEL POSTPAID PURCHASE,-664,expense,Airtel Postpaid,Credit Card
+2026-09-10,APOLLO PHARMACY PURCHASE,-1581,expense,Apollo Pharmacy,Debit Card
+2026-09-10,STARBUCKS PURCHASE,-362,expense,Starbucks,UPI
+2026-09-11,AIRTEL POSTPAID PURCHASE,-600,expense,Airtel Postpaid,Debit Card
+2026-09-12,AIRTEL POSTPAID PURCHASE,-400,expense,Airtel Postpaid,Net Banking
+2026-09-13,LIC PREMIUM PURCHASE,-2194,expense,LIC Premium,UPI
+2026-09-13,BIGBASKET PURCHASE,-3414,expense,BigBasket,Credit Card
+2026-09-13,UNKNOWN MERCHANT XYZ LARGE PURCHASE,-47982,expense,Unknown Merchant XYZ,Credit Card
+2026-09-14,INDIAN OIL PETROL PUMP PURCHASE,-2277,expense,Indian Oil Petrol Pump,Debit Card
+2026-09-14,STARBUCKS PURCHASE,-660,expense,Starbucks,Net Banking
+2026-09-14,APOLLO PHARMACY PURCHASE,-1794,expense,Apollo Pharmacy,UPI
+2026-09-15,INDIAN OIL PETROL PUMP PURCHASE,-1020,expense,Indian Oil Petrol Pump,UPI
+2026-09-16,MAKEMYTRIP PURCHASE,-17248,expense,MakeMyTrip,Credit Card
+2026-09-17,ZERODHA PURCHASE,-12482,expense,Zerodha,Credit Card
+2026-09-17,ELECTRICITY BOARD PURCHASE,-3045,expense,Electricity Board,Credit Card
+2026-09-17,SWIGGY PURCHASE,-164,expense,Swiggy,UPI
+2026-09-18,DMART PURCHASE,-1197,expense,DMart,Credit Card
+2026-09-20,AMAZON PURCHASE,-2699,expense,Amazon,Cash
+2026-09-20,FLIPKART PURCHASE,-5104,expense,Flipkart,Debit Card

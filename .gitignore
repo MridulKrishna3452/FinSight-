@@ -1,0 +1,44 @@
+# Environment files (.env.test is intentionally tracked -- it holds only
+# local/CI test defaults, no secrets, and pytest needs it out of the box)
+.env
+.env.local
+.env.*.local
+apps/api/.env
+
+# Python
+apps/api/.venv/
+apps/api/__pycache__/
+**/__pycache__/
+*.pyc
+apps/api/.pytest_cache/
+apps/api/.mypy_cache/
+apps/api/.ruff_cache/
+apps/api/htmlcov/
+apps/api/.coverage
+
+# ML artifacts (regenerate via `python -m app.ml.train_anomaly_model`)
+apps/api/app/ml/artifacts/*.joblib
+
+# Node / Next.js
+node_modules/
+apps/web/.next/
+apps/web/out/
+apps/web/next-env.d.ts
+apps/web/npm-debug.log*
+
+# Playwright
+apps/web/test-results/
+apps/web/playwright-report/
+apps/web/playwright/.cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code session artifacts
+.claude/
+
+# Docker
+*.pid
